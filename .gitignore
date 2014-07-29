@@ -39,3 +39,4 @@ Icon
 _build/
 *.bak
 *.afaba
+*.dep
