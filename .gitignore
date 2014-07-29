@@ -40,3 +40,4 @@ _build/
 *.bak
 *.afaba
 *.dep
+build/*.txt
